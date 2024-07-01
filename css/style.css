@@ -1,0 +1,37 @@
+/* Estilos personalizados */
+
+.site-logo {
+    max-width: 150px; /* Ajuste o tamanho conforme necessário */
+    width: 100%;
+    padding: 10px;
+    margin: -10px auto 0 10px;
+  }
+  
+  .navbar {
+    background-color: #1b7097; /* Cor do topo */
+  }
+  
+  .navbar-brand {
+    margin: 0 auto; /* Centraliza o conteúdo */
+    display: table; /* Para centralizar */
+  }
+
+
+
+main {
+    background-color: white;
+    align-items: center;
+}
+
+#wel {
+    background-color: black;
+    align-items: center;
+}
+footer {
+    background-color: rgb(245, 245, 245);
+    border-bottom: black;
+    width: 100%;
+    bottom: 0;
+    align-items: center;
+
+}
